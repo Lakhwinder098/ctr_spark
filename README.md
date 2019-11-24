@@ -3,4 +3,4 @@ This code is used to predict the Click through rate using Distributed Machine le
 
 To run this code PySpark and Jupyter notebook should be configured and installed in the system.
  
-.ipynb files contains detail explanation of our Model and results.
+.ipynb files contains detail explanation of different models used for Predicting CTR and their results.
